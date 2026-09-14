@@ -1,7 +1,7 @@
 ﻿{
 	"name": "NoDronePush",
 	"version_number": "1.0.0",
-	"website_url": "https://github.com/Tizitendo/HalcyonKnight",
+	"website_url": "https://github.com/Tizitendo/NoDronePush",
 	"description": "Drones now phase through you",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2108",
